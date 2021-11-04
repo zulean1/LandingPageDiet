@@ -1,0 +1,11 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "Creacion de Landingpage Diet como recurso de practica usando CSS",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zuleidy Rodriguez",
+  "license": "ISC"
+}
